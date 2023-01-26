@@ -3,3 +3,8 @@
 ###### This is an h6 header, which is the smallest
 
 ![Image of Yaktocat](https://swall.teahub.io/photos/small/79-790431_cool-looking-wallpapers-p12aiv-data-src-cool-looking.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
